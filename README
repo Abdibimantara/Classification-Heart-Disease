@@ -1,0 +1,7 @@
+Assalamualaikum wr.wb 
+
+pada percobaan kali ini saya mecoba melakukan proses klasifikasi terhadap penyakit jantung ( 0 = tidak sakit, 1 = sakit ). Disini saya menggunakan algoritma ANN sebagai algoritma klasifikasi.
+
+
+link dataset : https://www.kaggle.com/ronitf/heart-disease-uci
+paper  rujukan : ALGORITMA NEURAL NETWORK UNTUK PREDIKSI PENYAKIT JANTUNG
